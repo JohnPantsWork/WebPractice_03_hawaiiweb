@@ -1,4 +1,4 @@
-# WebPractice_03
+# WebPractice_03__hawaiiweb
 Udemy course practice project.
 
 https://johnpantswork-webpractice-hawaiiproject.netlify.app/
